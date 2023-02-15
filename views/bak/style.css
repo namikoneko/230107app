@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+body {
+    background-color: rgb(226 232 240);
+}
+
+.showLinked {
+    display: block;
+}
+
+.toggle-show, .hiddenAddDelForm, .hiddenUpdForm, .hiddenSearchForm, .hiddenInsForm, hiddenSearchForm, hiddenLinked {
+    display: none;
+}
+
+
+.vh-min-50.vh-min-50 {
+    min-height: 50vh;
+}
+
+.vh-min-30.vh-min-30 {
+    min-height: 30vh;
+}
+
+.logo {
+    line-height: 1.5;
+}
+
+.data-textarea {
+    height: 150px;
+}
